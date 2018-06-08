@@ -1,0 +1,14 @@
+h3 {
+    background: #333;
+    color: #eee;
+    padding: 10px;
+}
+
+.rounded {
+    border: 2px solid #333;
+}
+
+.btn {
+    background: #333;
+    color: #eee;
+}
