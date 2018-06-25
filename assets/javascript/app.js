@@ -32,7 +32,7 @@ $(document).ready(function () {
             trainFrequency: trainFrequency
         });
 
-        $("input").trigger("reset");
+        $(".form-control").val("");
 
     });
 
